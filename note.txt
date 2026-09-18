@@ -1,0 +1,18 @@
+    command   |       file
+| باز کن  -> command_parser.py |
+| اجرا کن -> command_parser.py |
+| ببند    -> command_parser.py |
+| سرچ کن  -> command_parser.py |
+| تایپ کن -> command_parser.py |
+________________________________
+
+کاربر چه کاری می‌خواهد؟
+        ↓
+command_parser.py
+
+روی چه چیزی؟
+        ↓
+target_extractor.py
+
+________________________________
+

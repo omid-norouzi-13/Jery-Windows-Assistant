@@ -5,8 +5,8 @@ import os
 APPS = {
 
     # مرورگرها
-    "chrome": "C:\Program Files\Google\Chrome\Application\chrome.exe",
-    "کروم": "C:\Program Files\Google\Chrome\Application\chrome.exe",
+    "chrome": r"C:\Program Files\Google\Chrome\Application\chrome.exe",
+    "کروم": r"C:\Program Files\Google\Chrome\Application\chrome.exe",
 
     # برنامه‌های ویندوز
     "notepad": "notepad.exe",
@@ -15,8 +15,8 @@ APPS = {
     "calculator": "calc.exe",
     "ماشین حساب": "calc.exe",
 
-    "vscode": "visual studio code",
-    "وی اس کد": "visual studio code.exe",
+    "vscode": r"C:\Users\omidn\AppData\Local\Programs\Microsoft VS Code\Code.exe",
+    "وی اس کد": r"C:\Users\omidn\AppData\Local\Programs\Microsoft VS Code\Code.exe",
 
 }
 
